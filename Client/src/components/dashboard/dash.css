@@ -1,0 +1,82 @@
+/* dash.css */
+
+/* Questions */
+
+.teacher-feedback label {
+  margin-bottom: 0px;
+}
+
+.teacher-feedback select,
+.teacher-feedback input {
+  border: 1px solid #ddd;
+  padding: 8px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+/* Additional styling */
+
+.dashboard {
+  background-color: rgba(255, 255, 255, 0.6);
+  border: none;
+  box-shadow: none;
+  padding: 30px;
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+.dashboard h1 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.dashboard label {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.dashboard button {
+  background-color: #14443b;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.dashboard button:hover {
+  background-color: #45a049;
+}
+
+
+.checkbox-label {
+  display: flex;
+  flex-direction: row;
+  /* align-items: flex-start; */
+}
+
+.checkbox-label input {
+  margin-right: 8px;
+}
+
+.teacher-feedback button {
+  margin: 0 auto;
+  display: block;
+}
+
+.feedback-checkbox{
+  display: flex;
+  flex-direction: row;
+  /* align-items: flex-start; */
+}
