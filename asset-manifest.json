@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CampusCritique/static/css/main.19ff4d47.css",
-    "main.js": "/CampusCritique/static/js/main.6b76ff7f.js",
+    "main.css": "/CampusCritique/static/css/main.3b719b0f.css",
+    "main.js": "/CampusCritique/static/js/main.e6576a63.js",
     "static/js/787.d0fbee60.chunk.js": "/CampusCritique/static/js/787.d0fbee60.chunk.js",
     "static/media/background.jpg": "/CampusCritique/static/media/background.d0cd97b8e135abb1aadc.jpg",
     "index.html": "/CampusCritique/index.html",
-    "main.19ff4d47.css.map": "/CampusCritique/static/css/main.19ff4d47.css.map",
-    "main.6b76ff7f.js.map": "/CampusCritique/static/js/main.6b76ff7f.js.map",
+    "main.3b719b0f.css.map": "/CampusCritique/static/css/main.3b719b0f.css.map",
+    "main.e6576a63.js.map": "/CampusCritique/static/js/main.e6576a63.js.map",
     "787.d0fbee60.chunk.js.map": "/CampusCritique/static/js/787.d0fbee60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19ff4d47.css",
-    "static/js/main.6b76ff7f.js"
+    "static/css/main.3b719b0f.css",
+    "static/js/main.e6576a63.js"
   ]
 }
